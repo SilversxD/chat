@@ -1,2 +1,2 @@
-# chat
+# Socials
 Diploma work
